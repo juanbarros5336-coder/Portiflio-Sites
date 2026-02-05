@@ -2,7 +2,7 @@
 https://juuann.netlify.app/
 Portfolio de alta performance, com foco em design futurista, animações fluidas e experiência do usuário imersiva.
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - **Vite**: Build tool ultra-rápida.
 - **React**: Biblioteca UI para componentes interativos.
@@ -11,7 +11,7 @@ Portfolio de alta performance, com foco em design futurista, animações fluidas
 - **GSAP**: Animações profissionais de alta performance.
 - **Swiper**: Sliders de toque modernos.
 
-## 🛠️ Instalação e Execução
+## Instalação e Execução
 
 1. **Instale as dependências:**
    ```bash
@@ -28,14 +28,14 @@ Portfolio de alta performance, com foco em design futurista, animações fluidas
    npm run build
    ```
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 - `/src/components`: Componentes de UI (Hero, About, Projects, etc).
 - `/src/hooks`: Hooks personalizados (animações, lógica de negócio).
 - `/src/lib`: Utilitários e constantes.
 - `/public/images`: Assets estáticos otimizados.
 
-## 🌟 Destaques
+##  Destaques
 
 - **Performance**: Lazy loading, code splitting e otimização de assets.
 - **Design**: Paleta de cores premium, glassmorphism e neon effects.
@@ -43,4 +43,3 @@ Portfolio de alta performance, com foco em design futurista, animações fluidas
 - **Código Limpo**: Arquitetura modular e sem dívida técnica.
 
 ---
-Desenvolvido por Juan.
