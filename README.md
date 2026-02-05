@@ -1,6 +1,6 @@
 # Innova - Portfolio Premium
-
-Portfolio de alta performance desenvolvido para Juan, com foco em design futurista, animações fluidas e experiência do usuário imersiva.
+https://juuann.netlify.app/
+Portfolio de alta performance, com foco em design futurista, animações fluidas e experiência do usuário imersiva.
 
 ## 🚀 Tecnologias
 
